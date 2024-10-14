@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "61018032312",
+    "project_id": "urbanride-c1184",
+    "storage_bucket": "urbanride-c1184.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61018032312:android:796dd0fbdb153150920c4d",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi1yjuMk32A0UnsL5RCG-I4reNVDHBiwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61018032312:android:8df26a16a5f873c5920c4d",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi1yjuMk32A0UnsL5RCG-I4reNVDHBiwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
